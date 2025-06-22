@@ -4,7 +4,7 @@ import { useState } from 'react';
 import { InputGroup,Form} from 'react-bootstrap';
 import { MdEmail } from "react-icons/md";
 import { RiLock2Fill } from "react-icons/ri";
-import { useNavigate } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom'
 import BackendUrl from '../Config/BackendUrl';
 const Login=()=>{
 const [adminId,setAdminid]=useState("")

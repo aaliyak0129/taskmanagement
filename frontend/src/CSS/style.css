@@ -1,7 +1,7 @@
 body {
-  background-color: #fff6fa !important;
+background-color: rgb(223, 239, 255)!important;
   color: #333;
-  font-family: 'Segoe UI', sans-serif;
+  font-family: 'Segoe UI', Georgia, 'Times New Roman', Times, serif;
 }
 
 .header {
@@ -32,7 +32,7 @@ body {
   writing-mode: vertical-rl;
   text-orientation: upright;
   font-size: 2.5rem;
-  color: #fcfafb;
+  color: rgb(229, 242, 255);
   text-align: center;
   font-weight: bold;
 }
@@ -46,7 +46,7 @@ body {
   margin: auto;
   margin-top: 20px;
   border-radius: 50px;
-  background: #ff69b4!important; /* Removed white background */
+  background: #ffc4de!important; /* Removed white background */
   box-shadow: none !important;        /* Removed shadow */
 }
 
@@ -57,7 +57,7 @@ body {
   max-width: 420px;
   padding: 34px 40px;
   margin-top: 20px !important;
-  background-color:#ffcce5 !important; /* No background */
+  background-color: rgb(223, 239, 255) !important; /* No background */
   box-shadow: none !important;              /* No glow or border */
 }
 
@@ -94,11 +94,12 @@ body {
 
 .login {
   width: 312px;
-  background-color: #ff69b4 !important;
-  color: white !important;
-  font-weight: 700 !important;
+  background-color: #faadd2 !important;
+  color: rgb(4, 4, 4) !important;
+  font-weight: 1000 !important;
   border: none !important;
   padding: 10px;
+  font-size: 80px;
   border-radius: 10px;
   box-shadow: 0 4px 10px rgba(255, 105, 180, 0.4);
 }
